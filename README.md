@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dungta19
 - 👀 I’m interested in Technology, Photography and Architecture
-- 🌱 I’m currently learning Automation testing
+- 🌱 I’m a QA Automating Tester
 - 💞️ I’m looking to collaborate on Automation testing
 - 📫 You can reach reach me via email "ttdung1901@gmail.com" or skype "capriconus19"
 
